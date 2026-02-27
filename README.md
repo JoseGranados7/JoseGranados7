@@ -168,20 +168,6 @@ fun_fact: "I turned 100% of judicial paper processes into digital workflows 📄
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/JoseGranados7">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoseGranados7&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" width="95%" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/JoseGranados7">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoseGranados7&theme=github_dark&hide_border=true&layout=compact&langs_count=8&count_private=true" alt="Most Used Languages" width="95%" />
-  </a>
-</div>
-
 <br/>
 
 <div align="center">

@@ -71,6 +71,7 @@ fun_fact: "I turned 100% of judicial paper processes into digital workflows 📄
 ### Languages
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -80,6 +81,7 @@ fun_fact: "I turned 100% of judicial paper processes into digital workflows 📄
 
 ### Frameworks & Tools
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -94,6 +96,8 @@ fun_fact: "I turned 100% of judicial paper processes into digital workflows 📄
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white)
 
 </div>
 
@@ -105,11 +109,13 @@ fun_fact: "I turned 100% of judicial paper processes into digital workflows 📄
 <table>
 <tr>
 <td width="50%" align="center">
-  <h3>🏛️ Portal Web Telesecundaria 49</h3>
-  <p><em>2025 — React & Tailwind CSS</em></p>
-  <p>Informational web portal for Telesecundaria 49 in Presas, Hgo. Main source of information and communication for the entire school community.</p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <h3>🏫 <a href="https://github.com/JoseGranados7/Ts_49">Telesecundaria 49 — Sitio Oficial</a></h3>
+  <p><em>2025 — Astro 5, Tailwind CSS 4 & TypeScript</em></p>
+  <p>Official institutional website for Telesecundaria 49 "Ignacio Ramírez". Features dynamic announcements via Strapi CMS, SEO optimization, contact forms via Netlify, image optimization with Sharp, and a resilient fallback system.</p>
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white" />
 </td>
 <td width="50%" align="center">
   <h3>🏠 Bienes Raíces</h3>
@@ -156,22 +162,55 @@ fun_fact: "I turned 100% of judicial paper processes into digital workflows 📄
 
 <div align="center">
   <a href="https://github.com/JoseGranados7">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoseGranados7&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-  </a>
-  <a href="https://github.com/JoseGranados7">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoseGranados7&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+    <img src="https://github-profile-trophy.vercel.app/?username=JoseGranados7&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/JoseGranados7">
-    <img src="https://streak-stats.demolab.com/?user=JoseGranados7&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-  </a>
-</div>
+<br/>
 
 <div align="center">
   <a href="https://github.com/JoseGranados7">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseGranados7&theme=github_dark" />
+    <img src="https://streak-stats.demolab.com?user=JoseGranados7&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/JoseGranados7">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseGranados7&theme=github_dark" alt="Profile Details" width="95%" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/JoseGranados7">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoseGranados7&theme=github_dark" alt="Stats" height="180em" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/JoseGranados7">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoseGranados7&theme=github_dark" alt="Top Languages by Repo" height="180em" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/JoseGranados7">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoseGranados7&theme=github_dark" alt="Most Commit Language" height="180em" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/JoseGranados7">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoseGranados7&theme=github_dark&utcOffset=-6" alt="Productive Time" height="180em" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/JoseGranados7">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseGranados7&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" alt="Contribution Graph" width="95%" />
   </a>
 </div>
 
@@ -189,4 +228,4 @@ fun_fact: "I turned 100% of judicial paper processes into digital workflows 📄
 </div>
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=120&section=footer"/>\n
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=120&section=footer"/>

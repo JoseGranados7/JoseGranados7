@@ -186,11 +186,11 @@ fun_fact: "I turned 100% of judicial paper processes into digital workflows 📄
 
 <div align="center">
   <a href="https://github.com/JoseGranados7">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoseGranados7&theme=github_dark" alt="Stats" height="180em" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoseGranados7&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Stats" height="180em" />
   </a>
   &nbsp;
   <a href="https://github.com/JoseGranados7">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoseGranados7&theme=github_dark" alt="Top Languages by Repo" height="180em" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoseGranados7&theme=github_dark&hide_border=true&layout=compact&langs_count=8&count_private=true" alt="Top Languages by Repo" height="180em" />
   </a>
 </div>
 
@@ -198,11 +198,11 @@ fun_fact: "I turned 100% of judicial paper processes into digital workflows 📄
 
 <div align="center">
   <a href="https://github.com/JoseGranados7">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoseGranados7&theme=github_dark" alt="Most Commit Language" height="180em" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoseGranados7&theme=github_dark&hide_border=true&layout=donut&langs_count=6&count_private=true" alt="Most Commit Language" height="180em" />
   </a>
   &nbsp;
   <a href="https://github.com/JoseGranados7">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoseGranados7&theme=github_dark&utcOffset=-6" alt="Productive Time" height="180em" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoseGranados7&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=Productive%20Overview" alt="Productive Time" height="180em" />
   </a>
 </div>
 

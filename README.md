@@ -155,12 +155,24 @@ fun_fact: "I turned 100% of judicial paper processes into digital workflows 📄
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseGranados7&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseGranados7&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <a href="https://github.com/JoseGranados7">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoseGranados7&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
+  </a>
+  <a href="https://github.com/JoseGranados7">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoseGranados7&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseGranados7&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <a href="https://github.com/JoseGranados7">
+    <img src="https://streak-stats.demolab.com/?user=JoseGranados7&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/JoseGranados7">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseGranados7&theme=github_dark" />
+  </a>
 </div>
 
 ---
@@ -174,8 +186,6 @@ fun_fact: "I turned 100% of judicial paper processes into digital workflows 📄
     <img alt="github-snake" src="https://raw.githubusercontent.com/JoseGranados7/JoseGranados7/output/github-snake-dark.svg" />
   </picture>
 </div>
-
-> 💡 *To enable the snake animation, set up the [Platane/snk](https://github.com/Platane/snk) GitHub Action in this repository.*
 
 ---
 
@@ -192,4 +202,4 @@ fun_fact: "I turned 100% of judicial paper processes into digital workflows 📄
 </div>
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=120&section=footer"/>\n

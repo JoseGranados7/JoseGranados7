@@ -5,7 +5,7 @@
 
   <!-- TYPING SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Building+innovative+software+solutions+%F0%9F%9A%80;Passionate+about+clean+code+%26+new+technologies+%F0%9F%92%A1;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Building+innovative+software+solutions+%F0%9F%9A%80;Passionate+about+clean+code+%26+new+technologies+%F0%9F%92%A1;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" width="95%" />
   </a>
 
   <!-- PROFILE BADGES -->
@@ -39,28 +39,17 @@ fun_fact: "I turned 100% of judicial paper processes into digital workflows 📄
 
 ## 🏢 &nbsp;Professional Experience
 
-<table>
-<tr>
-<td width="120" align="center">
-  <img src="https://img.shields.io/badge/2025-Present-58a6ff?style=flat-square" />
-</td>
-<td>
-  <strong>🏛️ Poder Judicial del Estado de Hidalgo — .NET Developer</strong><br/>
-  <sub>▸ Digitalized judicial processes, transforming paper-based workflows into 100% digital systems</sub><br/>
-  <sub>▸ Optimized business logic through complex SQL stored procedures for improved performance</sub>
-</td>
-</tr>
-<tr>
-<td width="120" align="center">
-  <img src="https://img.shields.io/badge/2024-blue?style=flat-square" />
-</td>
-<td>
-  <strong>💼 QROFIVE Business Solutions — Software Intern</strong><br/>
-  <sub>▸ Migrated a desktop application to a web-based solution using .NET, C#, JavaScript & SQL Server</sub><br/>
-  <sub>▸ Developed modules for automated Excel/PDF report generation, .CER/.KEY file management, and auto-fill Word documents</sub>
-</td>
-</tr>
-</table>
+### 🏛️ Poder Judicial del Estado de Hidalgo — .NET Developer
+<img src="https://img.shields.io/badge/2025-Present-58a6ff?style=flat-square" />
+
+- Digitalized judicial processes, transforming paper-based workflows into 100% digital systems.
+- Optimized business logic through complex SQL stored procedures for improved performance.
+
+### 💼 QROFIVE Business Solutions — Software Intern
+<img src="https://img.shields.io/badge/2024-blue?style=flat-square" />
+
+- Migrated a desktop application to a web-based solution using .NET, C#, JavaScript, and SQL Server.
+- Developed modules for automated Excel/PDF report generation, .CER/.KEY file management, and auto-fill Word documents.
 
 ---
 
@@ -106,9 +95,6 @@ fun_fact: "I turned 100% of judicial paper processes into digital workflows 📄
 ## 🚀 &nbsp;Featured Projects
 
 <div align="center">
-<table>
-<tr>
-<td width="50%" align="center">
   <h3>🏫 <a href="https://github.com/JoseGranados7/Ts_49">Telesecundaria 49 — Sitio Oficial</a></h3>
   <p><em>2025 — Astro 5, Tailwind CSS 4 & TypeScript</em></p>
   <p>Official institutional website for Telesecundaria 49 "Ignacio Ramírez". Features dynamic announcements via Strapi CMS, SEO optimization, contact forms via Netlify, image optimization with Sharp, and a resilient fallback system.</p>
@@ -116,33 +102,31 @@ fun_fact: "I turned 100% of judicial paper processes into digital workflows 📄
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white" />
-</td>
-<td width="50%" align="center">
+
+  <br/><br/>
+
   <h3>🏠 Bienes Raíces</h3>
   <p><em>2025 — HTML, CSS, JS, PHP & MySQL</em></p>
   <p>Real estate web platform to browse, contact, and list properties with full CRUD functionality.</p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
+
+  <br/><br/>
+
   <h3>📱 Fluentify</h3>
   <p><em>2024 — Dart, Flutter & TextGears API</em></p>
   <p>Mobile app for Android: grammar checker, spell checker, summary generator & language detector. Built with Flutter and powered by the TextGears API.</p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-</td>
-<td width="50%" align="center">
+
+  <br/><br/>
+
   <h3>🏘️ Community Information System</h3>
   <p><em>2022 — Java & MySQL Workbench</em></p>
   <p>Community management system for registering citizens and sending notifications about meetings and assemblies via email, SMS & WhatsApp.</p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</td>
-</tr>
-</table>
 </div>
 
 ---
@@ -162,7 +146,7 @@ fun_fact: "I turned 100% of judicial paper processes into digital workflows 📄
 
 <div align="center">
   <a href="https://github.com/JoseGranados7">
-    <img src="https://github-trophies.vercel.app/?username=JoseGranados7&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=JoseGranados7&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="95%" />
   </a>
 </div>
 
@@ -170,7 +154,7 @@ fun_fact: "I turned 100% of judicial paper processes into digital workflows 📄
 
 <div align="center">
   <a href="https://github.com/JoseGranados7">
-    <img src="https://streak-stats.demolab.com?user=JoseGranados7&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=JoseGranados7&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak" width="95%" />
   </a>
 </div>
 
@@ -186,11 +170,7 @@ fun_fact: "I turned 100% of judicial paper processes into digital workflows 📄
 
 <div align="center">
   <a href="https://github.com/JoseGranados7">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoseGranados7&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Stats" height="180em" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/JoseGranados7">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoseGranados7&theme=github_dark&hide_border=true&layout=compact&langs_count=8&count_private=true" alt="Top Languages by Repo" height="180em" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoseGranados7&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" width="95%" />
   </a>
 </div>
 
@@ -198,11 +178,7 @@ fun_fact: "I turned 100% of judicial paper processes into digital workflows 📄
 
 <div align="center">
   <a href="https://github.com/JoseGranados7">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoseGranados7&theme=github_dark&hide_border=true&layout=donut&langs_count=6&count_private=true" alt="Most Commit Language" height="180em" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/JoseGranados7">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoseGranados7&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=Productive%20Overview" alt="Productive Time" height="180em" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoseGranados7&theme=github_dark&hide_border=true&layout=compact&langs_count=8&count_private=true" alt="Most Used Languages" width="95%" />
   </a>
 </div>
 

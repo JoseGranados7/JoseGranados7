@@ -162,7 +162,7 @@ fun_fact: "I turned 100% of judicial paper processes into digital workflows 📄
 
 <div align="center">
   <a href="https://github.com/JoseGranados7">
-    <img src="https://github-profile-trophy.vercel.app/?username=JoseGranados7&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=JoseGranados7&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
   </a>
 </div>
 

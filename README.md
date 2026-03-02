@@ -4,8 +4,9 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=220&section=header&text=José%20Armando%20Granados%20Martínez&fontSize=36&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20.NET%20Developer%20%7C%20Full%20Stack&descSize=16&descColor=8b949e&descAlignY=55"/>
 
   <!-- TYPING SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Building+innovative+software+solutions+%F0%9F%9A%80;Passionate+about+clean+code+%26+new+technologies+%F0%9F%92%A1;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" width="95%" />
+
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+innovative+software+solutions+%F0%9F%9A%80" alt="Typing SVG" width="95%"  />
   </a>
 
   <!-- PROFILE BADGES -->

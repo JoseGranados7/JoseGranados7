@@ -140,43 +140,6 @@ fun_fact: "I turned 100% of judicial paper processes into digital workflows 📄
 
 </div>
 
----
-
-## 📊 &nbsp;GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/JoseGranados7">
-    <img src="https://github-trophies.vercel.app/?username=JoseGranados7&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="95%" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/JoseGranados7">
-    <img src="https://streak-stats.demolab.com?user=JoseGranados7&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak" width="95%" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/JoseGranados7">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseGranados7&theme=github_dark" alt="Profile Details" width="95%" />
-  </a>
-</div>
-
-<br/>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/JoseGranados7">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseGranados7&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" alt="Contribution Graph" width="95%" />
-  </a>
-</div>
-
-
 <div align="center">
   
   ### 🤝 &nbsp;Let's Connect!

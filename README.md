@@ -95,7 +95,7 @@ fun_fact: "I turned 100% of judicial paper processes into digital workflows 📄
 ## 🚀 &nbsp;Featured Projects
 
 <div align="center">
-  <h3>🏫 <a href="https://github.com/JoseGranados7/Ts_49">Telesecundaria 49 — Sitio Oficial</a></h3>
+  <h3>🏫 <a href="https://telesecundaria49.netlify.app/">Telesecundaria 49 — Sitio Oficial</a></h3>
   <p><em>2025 — Astro 5, Tailwind CSS 4 & TypeScript</em></p>
   <p>Official institutional website for Telesecundaria 49 "Ignacio Ramírez". Features dynamic announcements via Strapi CMS, SEO optimization, contact forms via Netlify, image optimization with Sharp, and a resilient fallback system.</p>
   <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
